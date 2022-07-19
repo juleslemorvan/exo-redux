@@ -1,5 +1,5 @@
 ** INSTALLER REDUX **
-npm i -s react-redux redux redux-thunk redux-devtools-extension
+
 
 1- Provider qui englobe l'app
 2- Création store
